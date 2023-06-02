@@ -37,7 +37,7 @@ README         - описание проблем и исправлений в к
 <br/>
  <br/>
 
-[Моя версия кода](https://github.com/GragertVD/NewGen_Vision/blob/master/index.js)
+[Моя версия кода](https://github.com/GragertVD/NewGen_Vision/blob/master/index.js) <br/>
 [Моя версия кода на TypeScript](https://github.com/GragertVD/NewGen_Vision/blob/master/index_TS.ts)
  <br/>
   <br/>
